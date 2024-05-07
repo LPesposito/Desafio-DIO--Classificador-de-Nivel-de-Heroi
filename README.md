@@ -1,7 +1,7 @@
 # Desafio da DIO: Classificador de Nível de Herói
 
-Utilizei a Linguagem Python para fazer esse desafio.
-Aproveitei para rever sobre classes em Python.
+Utilizei a Linguagem Python para fazer esse desafio.<br>
+Aproveitei para rever sobre classes em Python.<br>
 Fique a vontade para dar uma olhada no codigo😃
 
 ## Essas são as instruções do desafio: 
