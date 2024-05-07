@@ -13,7 +13,7 @@ class Hero():
     def get_tier(self) -> str:
         return self.__level
     
-    def addXP(self,xp) -> None:
+    def addXP(self,xp:int) -> None:
         self.__xp += xp    
     
     def get_name(self) -> str:
