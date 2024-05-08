@@ -8,7 +8,7 @@ heroi1.addXP(7500)
 def calcularXP(hero:Hero) -> None:
     heroXP = hero.get_xp()
     
-    heroLevel = str
+    heroLevel:str 
     
     if heroXP < 1000:
         heroLevel = 'Ferro'
